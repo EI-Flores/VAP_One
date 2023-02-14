@@ -6,3 +6,4 @@ psutil
 pyjokes
 pyttsx3
 SpeechRecognition
+openai
